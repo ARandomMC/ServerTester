@@ -1,0 +1,7 @@
+name: ServerTester
+version: '${project.version}}'
+main: org.qwertygaming.servertester.ServerTester
+api-version: '1.20'
+commands:
+  status:
+    description: Custom server monitoring
